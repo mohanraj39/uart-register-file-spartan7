@@ -93,4 +93,4 @@ D FF
 ## Author
 Mohanraj N
 Electronics & Communication Engineering  
-Focused on FPGA, RTL design, and VLSI fundamentals
+Focused on FPGA, RTL design, and VLSI fundamentals 
